@@ -1,4 +1,5 @@
-Transifex-Packages
+Transifex Projects
 ==================
 
-This repository contations some Transifex projects meta files.
+This repository contains some Transifex projects meta files.
+These meta files provides data, which can be imported to [ITP Transifex] (http://itprism.com/free-joomla-extensions/others/language-packages-manager).
