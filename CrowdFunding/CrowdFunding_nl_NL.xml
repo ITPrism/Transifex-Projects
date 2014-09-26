@@ -7,281 +7,281 @@
   <filename>CrowdFunding_UNZIPFIRST</filename>
   <package>
     <name>Plugin - Content - CrowdFunding Share</name>
-    <alias>plugin-content-crowdfunding-share-de_de</alias>
+    <alias>plugin-content-crowdfunding-share-nl_nl</alias>
     <filename>lang_plg_content_crowdfundingshare</filename>
-    <description>This is German translation of CrowdFunding Share content plugin.</description>
+    <description>This is Dutch translation of CrowdFunding Share content plugin.</description>
     <version>1.0</version>
-    <language>de_DE</language>
+    <language>nl_NL</language>
     <type>plugin</type>
   </package>
   <package>
     <name>CrowdFunding Component</name>
-    <alias>crowdfunding-component-de_de</alias>
+    <alias>crowdfunding-component-nl_nl</alias>
     <filename>lang_com_crowdfunding</filename>
-    <description>This is a German translation of the component CrowdFunding.</description>
+    <description>This is a Dutch translation of the component CrowdFunding.</description>
     <version>1.0</version>
-    <language>de_DE</language>
+    <language>nl_NL</language>
     <type>component</type>
   </package>
   <package>
     <name>Plugin - Content - CrowdFunding Navigation</name>
-    <alias>plugin-content-crowdfunding-navigation-de_de</alias>
+    <alias>plugin-content-crowdfunding-navigation-nl_nl</alias>
     <filename>lang_plg_content_crowdfundingnav</filename>
-    <description>This is German translation of the plugin CrowdFunding Nav.</description>
+    <description>This is Dutch translation of the plugin CrowdFunding Nav.</description>
     <version>1.0</version>
-    <language>de_DE</language>
+    <language>nl_NL</language>
     <type>plugin</type>
   </package>
   <package>
     <name>Plugin - Content - CrowdFunding Info</name>
-    <alias>plugin-content-crowdfunding-info-de_de</alias>
+    <alias>plugin-content-crowdfunding-info-nl_nl</alias>
     <filename>lang_plg_content_crowdfundinginfo</filename>
-    <description>This is a German translation of the plugin Content - CrowdFunding Info.</description>
+    <description>This is a Dutch translation of the plugin Content - CrowdFunding Info.</description>
     <version>1.0</version>
-    <language>de_DE</language>
+    <language>nl_NL</language>
     <type>plugin</type>
   </package>
   <package>
     <name>Plugin - CrowdFundingPayment - PayPal</name>
-    <alias>plugin-crowdfundingpayment-paypal-de_de</alias>
+    <alias>plugin-crowdfundingpayment-paypal-nl_nl</alias>
     <filename>lang_plg_crowdfundingpayment_paypal</filename>
-    <description>This is a German translation of the payment plug-in PayPal Standard.</description>
+    <description>This is a Dutch translation of the payment plug-in PayPal Standard.</description>
     <version>1.0</version>
-    <language>de_DE</language>
+    <language>nl_NL</language>
     <type>plugin</type>
   </package>
   <package>
     <name>Plugin - Search - CrowdFunding</name>
-    <alias>plugin-search-crowdfunding-de_de</alias>
+    <alias>plugin-search-crowdfunding-nl_nl</alias>
     <filename>lang_plg_search_crowdfunding</filename>
-    <description>This is a German translation of CrowdFunding search plugin.</description>
+    <description>This is a Dutch translation of CrowdFunding search plugin.</description>
     <version>1.0</version>
-    <language>de_DE</language>
+    <language>nl_NL</language>
     <type>plugin</type>
   </package>
   <package>
     <name>Plugin - CrowdFundingPayment - Coinbase</name>
-    <alias>plugin-crowdfundingpayment-coinbase-de_de</alias>
+    <alias>plugin-crowdfundingpayment-coinbase-nl_nl</alias>
     <filename>lang_plg_crowdfundingpayment_coinbase</filename>
-    <description>This is a German translation of Coinbase payment plug-in.</description>
+    <description>This is a Dutch translation of Coinbase payment plug-in.</description>
     <version>1.0</version>
-    <language>de_DE</language>
+    <language>nl_NL</language>
     <type>plugin</type>
   </package>
   <package>
     <name>Plugin - CrowdFundingPayment - Mollie</name>
-    <alias>plugin-crowdfundingpayment-mollie-de_de</alias>
+    <alias>plugin-crowdfundingpayment-mollie-nl_nl</alias>
     <filename>lang_plg_crowdfundingpayment_mollie</filename>
-    <description>This is a German translation of the payment plug-in Mollie via iDEAL.</description>
+    <description>This is a Dutch translation of the payment plug-in Mollie via iDEAL.</description>
     <version>1.0</version>
-    <language>de_DE</language>
+    <language>nl_NL</language>
     <type>plugin</type>
   </package>
   <package>
     <name>Plugin - CrowdFundingPayment - Banktransfer</name>
-    <alias>plugin-crowdfundingpayment-banktransfer-de_de</alias>
+    <alias>plugin-crowdfundingpayment-banktransfer-nl_nl</alias>
     <filename>lang_plg_crowdfundingpayment_banktransfer</filename>
-    <description>This is a German translation of CrowdFunding Bank Transfer payment plug-in.</description>
+    <description>This is a Dutch translation of CrowdFunding Bank Transfer payment plug-in.</description>
     <version>1.0</version>
-    <language>de_DE</language>
+    <language>nl_NL</language>
     <type>plugin</type>
   </package>
   <package>
     <name>Plugin - Content - CrowdFunding Manager</name>
-    <alias>plugin-content-crowdfunding-manager-de_de</alias>
+    <alias>plugin-content-crowdfunding-manager-nl_nl</alias>
     <filename>lang_plg_content_crowdfundingmanager</filename>
-    <description>This is a German translation of the content plug-in CrowdFunding Manager</description>
+    <description>This is a Dutch translation of the content plug-in CrowdFunding Manager</description>
     <version>1.0</version>
-    <language>de_DE</language>
+    <language>nl_NL</language>
     <type>plugin</type>
   </package>
   <package>
     <name>Module - CrowdFunding Latest</name>
-    <alias>module-crowdfunding-latest-de_de</alias>
+    <alias>module-crowdfunding-latest-nl_nl</alias>
     <filename>lang_mod_crowdfundinglatest</filename>
-    <description>This is a German translation of the module CrowdFunding Latest.</description>
+    <description>This is a Dutch translation of the module CrowdFunding Latest.</description>
     <version>1.0</version>
-    <language>de_DE</language>
+    <language>nl_NL</language>
     <type>module</type>
   </package>
   <package>
     <name>Module - CrowdFunding Search</name>
-    <alias>module-crowdfunding-search-de_de</alias>
+    <alias>module-crowdfunding-search-nl_nl</alias>
     <filename>lang_mod_crowdfundingsearch</filename>
-    <description>This is a German translation of the module CrowdFunding Search.</description>
+    <description>This is a Dutch translation of the module CrowdFunding Search.</description>
     <version>1.0</version>
-    <language>de_DE</language>
+    <language>nl_NL</language>
     <type>module</type>
   </package>
   <package>
     <name>Module - CrowdFunding Popular</name>
-    <alias>module-crowdfunding-popular-de_de</alias>
+    <alias>module-crowdfunding-popular-nl_nl</alias>
     <filename>lang_mod_crowdfundingpopular</filename>
-    <description>This is a German translation of the module CrowdFunding Popular.</description>
+    <description>This is a Dutch translation of the module CrowdFunding Popular.</description>
     <version>1.0</version>
-    <language>de_DE</language>
+    <language>nl_NL</language>
     <type>module</type>
   </package>
   <package>
     <name>Module - CrowdFunding Details</name>
-    <alias>module-crowdfunding-details-de_de</alias>
+    <alias>module-crowdfunding-details-nl_nl</alias>
     <filename>lang_mod_crowdfundingdetails</filename>
-    <description>This is a German translation of the module CrowdFunding Details.</description>
+    <description>This is a Dutch translation of the module CrowdFunding Details.</description>
     <version>1.0</version>
-    <language>de_DE</language>
+    <language>nl_NL</language>
     <type>module</type>
   </package>
   <package>
     <name>Module - CrowdFunding Info</name>
-    <alias>module-crowdfunding-info-de_de</alias>
+    <alias>module-crowdfunding-info-nl_nl</alias>
     <filename>lang_mod_crowdfundinginfo</filename>
-    <description>This is a German translation of the module CrowdFunding Info.</description>
+    <description>This is a Dutch translation of the module CrowdFunding Info.</description>
     <version>1.0</version>
-    <language>de_DE</language>
+    <language>nl_NL</language>
     <type>module</type>
   </package>
   <package>
     <name>Module - CrowdFunding Rewards</name>
-    <alias>module-crowdfunding-rewards-de_de</alias>
+    <alias>module-crowdfunding-rewards-nl_nl</alias>
     <filename>lang_mod_crowdfundingrewards</filename>
-    <description>This is a German translation of the module CrowdFunding Rewards.</description>
+    <description>This is a Dutch translation of the module CrowdFunding Rewards.</description>
     <version>1.0</version>
-    <language>de_DE</language>
+    <language>nl_NL</language>
     <type>module</type>
   </package>
   <package>
     <name>Plugin - Content - CrowdFunding Admin Mail</name>
-    <alias>plugin-content-crowdfunding-admin-mail-de_de</alias>
+    <alias>plugin-content-crowdfunding-admin-mail-nl_nl</alias>
     <filename>lang_plg_content_crowdfundingadminmail</filename>
-    <description>This is a German translation of the content plug-in CrowdFunding Admin Mail.</description>
+    <description>This is a Dutch translation of the content plug-in CrowdFunding Admin Mail.</description>
     <version>1.0</version>
-    <language>de_DE</language>
+    <language>nl_NL</language>
     <type>plugin</type>
   </package>
   <package>
     <name>Plugin - Content - CrowdFunding User Mail</name>
-    <alias>plugin-content-crowdfunding-user-mail-de_de</alias>
+    <alias>plugin-content-crowdfunding-user-mail-nl_nl</alias>
     <filename>lang_plg_content_crowdfundingusermail</filename>
-    <description>This is a German translation of the content plug-in CrowdFunding User Mail.</description>
+    <description>This is a Dutch translation of the content plug-in CrowdFunding User Mail.</description>
     <version>1.0</version>
-    <language>de_DE</language>
+    <language>nl_NL</language>
     <type>plugin</type>
   </package>
   <package>
     <name>Plugin - System - CrowdFunding Modules</name>
-    <alias>plugin-system-crowdfunding-modules-de_de</alias>
+    <alias>plugin-system-crowdfunding-modules-nl_nl</alias>
     <filename>lang_plg_system_crowdfundingmodules</filename>
-    <description>This is a German translation of the system plug-in CrowdFunding Modules.</description>
+    <description>This is a Dutch translation of the system plug-in CrowdFunding Modules.</description>
     <version>1.0</version>
-    <language>de_DE</language>
+    <language>nl_NL</language>
     <type>plugin</type>
   </package>
   <package>
     <name>Plugin - Content - CrowdFunding Images</name>
-    <alias>plugin-content-crowdfunding-images-de_de</alias>
+    <alias>plugin-content-crowdfunding-images-nl_nl</alias>
     <filename>lang_plg_content_crowdfundingimages</filename>
-    <description>This is a German translation of the content plug-in CrowdFunding Images.</description>
+    <description>This is a Dutch translation of the content plug-in CrowdFunding Images.</description>
     <version>1.0</version>
-    <language>de_DE</language>
+    <language>nl_NL</language>
     <type>plugin</type>
   </package>
   <package>
     <name>Module - CrowdFunding Filters</name>
-    <alias>module-crowdfunding-filters-de_de</alias>
+    <alias>module-crowdfunding-filters-nl_nl</alias>
     <filename>lang_mod_crowdfundingfilters</filename>
-    <description>This is a German translation of the module CrowdFunding Filters.</description>
+    <description>This is a Dutch translation of the module CrowdFunding Filters.</description>
     <version>1.0</version>
-    <language>de_DE</language>
+    <language>nl_NL</language>
     <type>module</type>
   </package>
   <package>
     <name>Module - CrowdFunding Most Funded</name>
-    <alias>module-crowdfunding-most-funded-de_de</alias>
+    <alias>module-crowdfunding-most-funded-nl_nl</alias>
     <filename>lang_mod_crowdfundingmostfunded</filename>
-    <description>This is a German translation of the module CrowdFunding Most Funded.</description>
+    <description>This is a Dutch translation of the module CrowdFunding Most Funded.</description>
     <version>1.0</version>
-    <language>de_DE</language>
+    <language>nl_NL</language>
     <type>module</type>
   </package>
   <package>
     <name>Module - CrowdFunding Profile</name>
-    <alias>module-crowdfunding-profile-de_de</alias>
+    <alias>module-crowdfunding-profile-nl_nl</alias>
     <filename>lang_mod_crowdfundingprofile</filename>
-    <description>This is a German translation of the module CrowdFunding Profile.</description>
+    <description>This is a Dutch translation of the module CrowdFunding Profile.</description>
     <version>1.0</version>
-    <language>de_DE</language>
+    <language>nl_NL</language>
     <type>module</type>
   </package>
   <package>
     <name>Plugin - CrowdFundingPayment - Authorize NET</name>
-    <alias>plugin-crowdfundingpayment-authorize-net-de_de</alias>
+    <alias>plugin-crowdfundingpayment-authorize-net-nl_nl</alias>
     <filename>lang_plg_crowdfundingpayment_authorizenet</filename>
-    <description>This is a German translation of the payment plug-in Authorize Net.</description>
+    <description>This is a Dutch translation of the payment plug-in Authorize Net.</description>
     <version>1.0</version>
-    <language>de_DE</language>
+    <language>nl_NL</language>
     <type>plugin</type>
   </package>
   <package>
     <name>Plugin - CrowdFundingPayment - PayPal Express</name>
-    <alias>plugin-crowdfundingpayment-paypal-express-de_de</alias>
+    <alias>plugin-crowdfundingpayment-paypal-express-nl_nl</alias>
     <filename>lang_plg_crowdfundingpayment_paypalexpress</filename>
-    <description>This is a German translation of the payment plug-in PayPal Express.</description>
+    <description>This is a Dutch translation of the payment plug-in PayPal Express.</description>
     <version>1.0</version>
-    <language>de_DE</language>
+    <language>nl_NL</language>
     <type>plugin</type>
   </package>
   <package>
     <name>Plugin - CrowdFundingPayment - WePay</name>
-    <alias>plugin-crowdfundingpayment-wepay-de_de</alias>
+    <alias>plugin-crowdfundingpayment-wepay-nl_nl</alias>
     <filename>lang_plg_crowdfundingpayment_wepay</filename>
-    <description>This is a German translation of the payment plug-in CrowdFunding WePay.</description>
+    <description>This is a Dutch translation of the payment plug-in CrowdFunding WePay.</description>
     <version>1.0</version>
-    <language>de_DE</language>
+    <language>nl_NL</language>
     <type>plugin</type>
   </package>
   <package>
     <name>Component - CrowdFunding Finance</name>
-    <alias>component-crowdfunding-finance-de_de</alias>
+    <alias>component-crowdfunding-finance-nl_nl</alias>
     <filename>lang_com_crowdfundingfinance</filename>
-    <description>This is a German translation of the component CrowdFunding Finance.</description>
+    <description>This is a Dutch translation of the component CrowdFunding Finance.</description>
     <version>1.0</version>
-    <language>de_DE</language>
+    <language>nl_NL</language>
     <type>component</type>
   </package>
   <package>
     <name>Component - CrowdFunding Shares</name>
-    <alias>component-crowdfunding-shares-de_de</alias>
+    <alias>component-crowdfunding-shares-nl_nl</alias>
     <filename>lang_com_crowdfundingfinance</filename>
-    <description>This is a German translation of the component CrowdFunding Shares.</description>
+    <description>This is a Dutch translation of the component CrowdFunding Shares.</description>
     <version>1.0</version>
-    <language>de_DE</language>
+    <language>nl_NL</language>
     <type>component</type>
   </package>
   <package>
     <name>Plugin - CrowdFundingPayment - Shares</name>
-    <alias>plugin-crowdfundingpayment-shares-de_de</alias>
+    <alias>plugin-crowdfundingpayment-shares-nl_nl</alias>
     <filename>lang_plg_crowdfundingpayment_shares</filename>
-    <description>This is a German translation of the plug-in CrowdFundingPayment - Shares.</description>
+    <description>This is a Dutch translation of the plug-in CrowdFundingPayment - Shares.</description>
     <version>1.0</version>
-    <language>de_DE</language>
+    <language>nl_NL</language>
     <type>plugin</type>
   </package>
   <package>
     <name>CrowdFunding Library</name>
-    <alias>crowdfunding-library-de_de</alias>
+    <alias>crowdfunding-library-nl_nl</alias>
     <filename>lang_lib_crowdfunding</filename>
-    <description>This is a German translation of CrowdFunding library.</description>
+    <description>This is a Dutch translation of CrowdFunding library.</description>
     <version>1.0</version>
-    <language>de_DE</language>
+    <language>nl_NL</language>
     <type>library</type>
   </package>
   <package>
     <name>ITPrism Library</name>
-    <alias>itprism-library-de_de</alias>
+    <alias>itprism-library-nl_nl</alias>
     <filename>lang_lib_itprism</filename>
-    <description>This is a German translation of ITPrism Library.</description>
+    <description>This is a Dutch translation of ITPrism Library.</description>
     <version>1.0</version>
-    <language>de_DE</language>
+    <language>nl_NL</language>
     <type>library</type>
   </package>
   <resource>
@@ -292,7 +292,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>component-crowdfunding-finance-de_de</package_alias>
+    <package_alias>component-crowdfunding-finance-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[ADMIN] en-GB.com_crowdfundingfinance.sys.ini</name>
@@ -302,7 +302,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>component-crowdfunding-finance-de_de</package_alias>
+    <package_alias>component-crowdfunding-finance-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[ADMIN] en-GB.com_crowdfundingshares.ini</name>
@@ -312,7 +312,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>component-crowdfunding-shares-de_de</package_alias>
+    <package_alias>component-crowdfunding-shares-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[ADMIN] en-GB.com_crowdfundingshares.sys.ini</name>
@@ -322,7 +322,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>component-crowdfunding-shares-de_de</package_alias>
+    <package_alias>component-crowdfunding-shares-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[SITE] en-GB.com_crowdfundingshares.ini</name>
@@ -332,7 +332,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>component-crowdfunding-shares-de_de</package_alias>
+    <package_alias>component-crowdfunding-shares-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[ADMIN] en-GB.com_crowdfunding.sys.ini</name>
@@ -342,7 +342,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>crowdfunding-component-de_de</package_alias>
+    <package_alias>crowdfunding-component-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[ADMIN] en-GB.com_crowdfunding.ini</name>
@@ -352,7 +352,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>crowdfunding-component-de_de</package_alias>
+    <package_alias>crowdfunding-component-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[SITE] en-GB.com_crowdfunding.ini</name>
@@ -362,7 +362,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>crowdfunding-component-de_de</package_alias>
+    <package_alias>crowdfunding-component-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[LIBRARY] en-GB.lib_crowdfunding.ini</name>
@@ -372,7 +372,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>crowdfunding-library-de_de</package_alias>
+    <package_alias>crowdfunding-library-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[LIBRARY] en-GB.lib_itprism.ini</name>
@@ -382,7 +382,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>itprism-library-de_de</package_alias>
+    <package_alias>itprism-library-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[MODULE] en-GB.mod_crowdfundingdetails.sys.ini</name>
@@ -392,7 +392,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>module-crowdfunding-details-de_de</package_alias>
+    <package_alias>module-crowdfunding-details-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[MODULE] en-GB.mod_crowdfundingdetails.ini</name>
@@ -402,7 +402,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>module-crowdfunding-details-de_de</package_alias>
+    <package_alias>module-crowdfunding-details-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[MODULE] en-GB.mod_crowdfundingfilters.sys.ini</name>
@@ -412,7 +412,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>module-crowdfunding-filters-de_de</package_alias>
+    <package_alias>module-crowdfunding-filters-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[MODULE] en-GB.mod_crowdfundingfilters.ini</name>
@@ -422,7 +422,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>module-crowdfunding-filters-de_de</package_alias>
+    <package_alias>module-crowdfunding-filters-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[MODULE] en-GB.mod_crowdfundinginfo.sys.ini</name>
@@ -432,7 +432,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>module-crowdfunding-info-de_de</package_alias>
+    <package_alias>module-crowdfunding-info-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[MODULE] en-GB.mod_crowdfundinginfo.ini</name>
@@ -442,7 +442,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>module-crowdfunding-info-de_de</package_alias>
+    <package_alias>module-crowdfunding-info-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[MODULE] en-GB.mod_crowdfundinglatest.sys.ini</name>
@@ -452,7 +452,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>module-crowdfunding-latest-de_de</package_alias>
+    <package_alias>module-crowdfunding-latest-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[MODULE] en-GB.mod_crowdfundinglatest.ini</name>
@@ -462,7 +462,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>module-crowdfunding-latest-de_de</package_alias>
+    <package_alias>module-crowdfunding-latest-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[MODULE] en-GB.mod_crowdfundingmostfunded.sys.ini</name>
@@ -472,7 +472,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>module-crowdfunding-most-funded-de_de</package_alias>
+    <package_alias>module-crowdfunding-most-funded-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[MODULE] en-GB.mod_crowdfundingmostfunded.ini</name>
@@ -482,7 +482,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>module-crowdfunding-most-funded-de_de</package_alias>
+    <package_alias>module-crowdfunding-most-funded-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[MODULE] en-GB.mod_crowdfundingpopular.sys.ini</name>
@@ -492,7 +492,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>module-crowdfunding-popular-de_de</package_alias>
+    <package_alias>module-crowdfunding-popular-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[MODULE] en-GB.mod_crowdfundingpopular.ini</name>
@@ -502,7 +502,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>module-crowdfunding-popular-de_de</package_alias>
+    <package_alias>module-crowdfunding-popular-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[MODULE] en-GB.mod_crowdfundingprofile.ini</name>
@@ -512,7 +512,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>module-crowdfunding-profile-de_de</package_alias>
+    <package_alias>module-crowdfunding-profile-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[MODULE] en-GB.mod_crowdfundingprofile.sys.ini</name>
@@ -522,7 +522,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>module-crowdfunding-profile-de_de</package_alias>
+    <package_alias>module-crowdfunding-profile-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[MODULE] en-GB.mod_crowdfundingrewards.sys.ini</name>
@@ -532,7 +532,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>module-crowdfunding-rewards-de_de</package_alias>
+    <package_alias>module-crowdfunding-rewards-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[MODULE] en-GB.mod_crowdfundingrewards.ini</name>
@@ -542,7 +542,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>module-crowdfunding-rewards-de_de</package_alias>
+    <package_alias>module-crowdfunding-rewards-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[MODULE] en-GB.mod_crowdfundingsearch.sys.ini</name>
@@ -552,7 +552,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>module-crowdfunding-search-de_de</package_alias>
+    <package_alias>module-crowdfunding-search-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[MODULE] en-GB.mod_crowdfundingsearch.ini</name>
@@ -562,7 +562,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>module-crowdfunding-search-de_de</package_alias>
+    <package_alias>module-crowdfunding-search-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_content_crowdfundingadminmail.sys.ini</name>
@@ -572,7 +572,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>plugin-content-crowdfunding-admin-mail-de_de</package_alias>
+    <package_alias>plugin-content-crowdfunding-admin-mail-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_content_crowdfundingadminmail.ini</name>
@@ -582,7 +582,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>plugin-content-crowdfunding-admin-mail-de_de</package_alias>
+    <package_alias>plugin-content-crowdfunding-admin-mail-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_content_crowdfundingimages.sys.ini</name>
@@ -592,7 +592,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>plugin-content-crowdfunding-images-de_de</package_alias>
+    <package_alias>plugin-content-crowdfunding-images-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_content_crowdfundingimages.ini</name>
@@ -602,7 +602,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>plugin-content-crowdfunding-images-de_de</package_alias>
+    <package_alias>plugin-content-crowdfunding-images-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_content_crowdfundinginfo.sys.ini</name>
@@ -612,7 +612,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>plugin-content-crowdfunding-info-de_de</package_alias>
+    <package_alias>plugin-content-crowdfunding-info-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_content_crowdfundinginfo.ini</name>
@@ -622,7 +622,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>plugin-content-crowdfunding-info-de_de</package_alias>
+    <package_alias>plugin-content-crowdfunding-info-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_content_crowdfundingmanager.sys.ini</name>
@@ -632,7 +632,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>plugin-content-crowdfunding-manager-de_de</package_alias>
+    <package_alias>plugin-content-crowdfunding-manager-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_content_crowdfundingmanager.ini</name>
@@ -642,7 +642,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>plugin-content-crowdfunding-manager-de_de</package_alias>
+    <package_alias>plugin-content-crowdfunding-manager-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_content_crowdfundingnav.sys.ini</name>
@@ -652,7 +652,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>plugin-content-crowdfunding-navigation-de_de</package_alias>
+    <package_alias>plugin-content-crowdfunding-navigation-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_content_crowdfundingnav.ini</name>
@@ -662,7 +662,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>plugin-content-crowdfunding-navigation-de_de</package_alias>
+    <package_alias>plugin-content-crowdfunding-navigation-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_content_crowdfundingshare.sys.ini</name>
@@ -672,7 +672,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>plugin-content-crowdfunding-share-de_de</package_alias>
+    <package_alias>plugin-content-crowdfunding-share-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_content_crowdfundingshare.ini</name>
@@ -682,7 +682,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>plugin-content-crowdfunding-share-de_de</package_alias>
+    <package_alias>plugin-content-crowdfunding-share-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_content_crowdfundingusermail.sys.ini</name>
@@ -692,7 +692,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>plugin-content-crowdfunding-user-mail-de_de</package_alias>
+    <package_alias>plugin-content-crowdfunding-user-mail-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_content_crowdfundingusermail.ini</name>
@@ -702,7 +702,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>plugin-content-crowdfunding-user-mail-de_de</package_alias>
+    <package_alias>plugin-content-crowdfunding-user-mail-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_crowdfundingpayment_authorizenet.ini</name>
@@ -712,7 +712,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>plugin-crowdfundingpayment-authorize-net-de_de</package_alias>
+    <package_alias>plugin-crowdfundingpayment-authorize-net-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_crowdfundingpayment_authorizenet.sys.ini</name>
@@ -722,7 +722,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>plugin-crowdfundingpayment-authorize-net-de_de</package_alias>
+    <package_alias>plugin-crowdfundingpayment-authorize-net-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_crowdfundingpayment_banktransfer.sys.ini</name>
@@ -732,7 +732,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>plugin-crowdfundingpayment-banktransfer-de_de</package_alias>
+    <package_alias>plugin-crowdfundingpayment-banktransfer-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_crowdfundingpayment_banktransfer.ini</name>
@@ -742,7 +742,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>plugin-crowdfundingpayment-banktransfer-de_de</package_alias>
+    <package_alias>plugin-crowdfundingpayment-banktransfer-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_crowdfundingpayment_coinbase.sys.ini</name>
@@ -752,7 +752,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>plugin-crowdfundingpayment-coinbase-de_de</package_alias>
+    <package_alias>plugin-crowdfundingpayment-coinbase-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_crowdfundingpayment_coinbase.ini</name>
@@ -762,7 +762,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>plugin-crowdfundingpayment-coinbase-de_de</package_alias>
+    <package_alias>plugin-crowdfundingpayment-coinbase-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_crowdfundingpayment_mollieideal.sys.ini</name>
@@ -772,7 +772,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>plugin-crowdfundingpayment-mollie-de_de</package_alias>
+    <package_alias>plugin-crowdfundingpayment-mollie-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_crowdfundingpayment_mollieideal.ini</name>
@@ -782,27 +782,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>plugin-crowdfundingpayment-mollie-de_de</package_alias>
-  </resource>
-  <resource>
-    <name>[PLUGIN] en-GB.plg_crowdfundingpayment_paypal.sys.ini</name>
-    <alias>plugin-plg_crowdfundingpayment_paypal_sys</alias>
-    <filename>plg_crowdfundingpayment_paypal.sys.ini</filename>
-    <type>admin</type>
-    <i18n_type>INI</i18n_type>
-    <source_language_code>en_GB</source_language_code>
-    <published>1</published>
-    <package_alias>plugin-crowdfundingpayment-paypal-de_de</package_alias>
-  </resource>
-  <resource>
-    <name>[PLUGIN] en-GB.plg_crowdfundingpayment_paypal.ini</name>
-    <alias>plugin-plg_crowdfundingpayment_paypal</alias>
-    <filename>plg_crowdfundingpayment_paypal.ini</filename>
-    <type>admin</type>
-    <i18n_type>INI</i18n_type>
-    <source_language_code>en_GB</source_language_code>
-    <published>1</published>
-    <package_alias>plugin-crowdfundingpayment-paypal-de_de</package_alias>
+    <package_alias>plugin-crowdfundingpayment-mollie-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_crowdfundingpayment_paypalexpress.ini</name>
@@ -812,7 +792,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>plugin-crowdfundingpayment-paypal-express-de_de</package_alias>
+    <package_alias>plugin-crowdfundingpayment-paypal-express-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_crowdfundingpayment_paypalexpress.sys.ini</name>
@@ -822,7 +802,27 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>plugin-crowdfundingpayment-paypal-express-de_de</package_alias>
+    <package_alias>plugin-crowdfundingpayment-paypal-express-nl_nl</package_alias>
+  </resource>
+  <resource>
+    <name>[PLUGIN] en-GB.plg_crowdfundingpayment_paypal.sys.ini</name>
+    <alias>plugin-plg_crowdfundingpayment_paypal_sys</alias>
+    <filename>plg_crowdfundingpayment_paypal.sys.ini</filename>
+    <type>admin</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>plugin-crowdfundingpayment-paypal-nl_nl</package_alias>
+  </resource>
+  <resource>
+    <name>[PLUGIN] en-GB.plg_crowdfundingpayment_paypal.ini</name>
+    <alias>plugin-plg_crowdfundingpayment_paypal</alias>
+    <filename>plg_crowdfundingpayment_paypal.ini</filename>
+    <type>admin</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>plugin-crowdfundingpayment-paypal-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_crowdfundingpayment_shares.ini</name>
@@ -832,7 +832,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>plugin-crowdfundingpayment-shares-de_de</package_alias>
+    <package_alias>plugin-crowdfundingpayment-shares-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_crowdfundingpayment_shares.sys.ini</name>
@@ -842,7 +842,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>plugin-crowdfundingpayment-shares-de_de</package_alias>
+    <package_alias>plugin-crowdfundingpayment-shares-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_crowdfundingpayment_wepay.ini</name>
@@ -852,7 +852,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>plugin-crowdfundingpayment-wepay-de_de</package_alias>
+    <package_alias>plugin-crowdfundingpayment-wepay-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_crowdfundingpayment_wepay.sys.ini</name>
@@ -862,7 +862,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>plugin-crowdfundingpayment-wepay-de_de</package_alias>
+    <package_alias>plugin-crowdfundingpayment-wepay-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_search_crowdfunding.sys.ini</name>
@@ -872,7 +872,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>plugin-search-crowdfunding-de_de</package_alias>
+    <package_alias>plugin-search-crowdfunding-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_search_crowdfunding.ini</name>
@@ -882,7 +882,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>plugin-search-crowdfunding-de_de</package_alias>
+    <package_alias>plugin-search-crowdfunding-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_system_crowdfundingmodules.sys.ini</name>
@@ -892,7 +892,7 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>plugin-system-crowdfunding-modules-de_de</package_alias>
+    <package_alias>plugin-system-crowdfunding-modules-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_system_crowdfundingmodules.ini</name>
@@ -902,6 +902,6 @@
     <i18n_type>INI</i18n_type>
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
-    <package_alias>plugin-system-crowdfunding-modules-de_de</package_alias>
+    <package_alias>plugin-system-crowdfunding-modules-nl_nl</package_alias>
   </resource>
 </project>
