@@ -251,7 +251,7 @@
   <package>
     <name>Component - CrowdFunding Shares</name>
     <alias>component-crowdfunding-shares-nl_nl</alias>
-    <filename>lang_com_crowdfundingfinance</filename>
+    <filename>lang_com_crowdfundingshares</filename>
     <description>This is a Dutch translation of the component CrowdFunding Shares.</description>
     <version>1.0</version>
     <language>nl_NL</language>
@@ -284,6 +284,192 @@
     <language>nl_NL</language>
     <type>library</type>
   </package>
+  <package>
+    <name>Component - CrowdFunding Data</name>
+    <alias>component-crowdfunding-data-nl_nl</alias>
+    <filename>lang_com_crowdfundingdata</filename>
+    <description>This is a Dutch translation of the component CrowdFunding Data.</description>
+    <version>1.0</version>
+    <language>nl_NL</language>
+    <type>component</type>
+  </package>
+  <package>
+    <name>Plugin - CrowdFundingPayment - Data</name>
+    <alias>plugin-crowdfundingpayment-data-nl_nl</alias>
+    <filename>lang_plg_crowdfundingpayment_data</filename>
+    <description>This is Dutch translation of the plugin CrowdFundingPayment - Data.</description>
+    <version>1.0</version>
+    <language>nl_NL</language>
+    <type>plugin</type>
+  </package>
+  <package>
+    <name>Plugin - Content - CrowdFunding Validator</name>
+    <alias>plugin-content-crowdfunding-validator-nl_nl</alias>
+    <filename>lang_plg_content_crowdfundingvalidator</filename>
+    <description>This is Dutch translation of CrowdFunding Validator content plugin.</description>
+    <version>1.0</version>
+    <language>nl_NL</language>
+    <type>plugin</type>
+  </package>
+  <package>
+    <name>Component - CrowdFunding Files</name>
+    <alias>component-crowdfunding-files-nl_nl</alias>
+    <filename>lang_com_crowdfundingfiles</filename>
+    <description>This is Dutch translation of the component CrowdFunding Files.</description>
+    <version>1.0</version>
+    <language>nl_NL</language>
+    <type>component</type>
+  </package>
+  <package>
+    <name>Plugin - Content - CrowdFunding Files</name>
+    <alias>plugin-content-crowdfunding-files-nl_nl</alias>
+    <filename>lang_plg_content_crowdfundingfiles</filename>
+    <description>This is Dutch translation of CrowdFunding Files content plugin.</description>
+    <version>1.0</version>
+    <language>nl_NL</language>
+    <type>plugin</type>
+  </package>
+  <package>
+    <name>Plugin - CrowdFunding - Files</name>
+    <alias>plugin-crowdfunding-files-nl_nl</alias>
+    <filename>lang_plg_crowdfunding_files</filename>
+    <description>This is Dutch translation of the plugin CrowdFunding Files.</description>
+    <version>1.0</version>
+    <language>nl_NL</language>
+    <type>plugin</type>
+  </package>
+  <package>
+    <name>Component - CrowdFunding Partners</name>
+    <alias>component-crowdfunding-partners-nl_nl</alias>
+    <filename>lang_com_crowdfundingpartners</filename>
+    <description>This is a Dutch translation of the component CrowdFunding Partners.</description>
+    <version>1.0</version>
+    <language>nl_NL</language>
+    <type>component</type>
+  </package>
+  <package>
+    <name>Plugin - Content - CrowdFunding Partners</name>
+    <alias>plugin-content-crowdfunding-partners-nl_nl</alias>
+    <filename>lang_plg_content_crowdfundingpartners</filename>
+    <description>This is Dutch translation of CrowdFunding Partners content plugin.</description>
+    <version>1.0</version>
+    <language>nl_NL</language>
+    <type>plugin</type>
+  </package>
+  <package>
+    <name>Plugin - CrowdFunding - Partners</name>
+    <alias>plugin-crowdfunding-partners-nl_nl</alias>
+    <filename>lang_plg_crowdfunding_partners</filename>
+    <description>This is Dutch translation of the plugin CrowdFunding Partners.</description>
+    <version>1.0</version>
+    <language>nl_NL</language>
+    <type>plugin</type>
+  </package>
+  <package>
+    <name>Plugin - CrowdFundingPayment - Login</name>
+    <alias>plugin-crowdfundingpayment-login-nl_nl</alias>
+    <filename>lang_plg_crowdfundingpayment_login</filename>
+    <description>This is Dutch translation of the plugin CrowdFundingPayment - Login.</description>
+    <version>1.0</version>
+    <language>nl_NL</language>
+    <type>plugin</type>
+  </package>
+  <package>
+    <name>Plugin - CrowdFundingPayment - PayPalAdaptive</name>
+    <alias>plugin-crowdfundingpayment-paypaladaptive-nl_nl</alias>
+    <filename>lang_plg_crowdfundingpayment_paypaladaptive</filename>
+    <description>This is Dutch translation of the plugin CrowdFundingPayment - PayPal Adaptive.</description>
+    <version>1.0</version>
+    <language>nl_NL</language>
+    <type>plugin</type>
+  </package>
+  <package>
+    <name>Plugin - CrowdFunding - Payout Options</name>
+    <alias>plugin-crowdfunding-payout-options-nl_nl</alias>
+    <filename>lang_plg_crowdfunding_payoutoptions</filename>
+    <description>This is Dutch translation of the plugin CrowdFunding - Payout Options.</description>
+    <version>1.0</version>
+    <language>nl_NL</language>
+    <type>plugin</type>
+  </package>
+  <package>
+    <name>Module - CrowdFunding User Pledges</name>
+    <alias>module-crowdfunding-userpledges-nl_nl</alias>
+    <filename>lang_mod_crowdfundinguserpledges</filename>
+    <description>This is Dutch translation of the module CrowdFunding User Pledges.</description>
+    <version>1.0</version>
+    <language>nl_NL</language>
+    <type>module</type>
+  </package>
+  <package>
+    <name>Module - CrowdFunding User Projects</name>
+    <alias>module-crowdfunding-userprojects-nl_nl</alias>
+    <filename>lang_mod_crowdfundinguserprojects</filename>
+    <description>This is Dutch translation of the module CrowdFunding User Projects.</description>
+    <version>1.0</version>
+    <language>nl_NL</language>
+    <type>module</type>
+  </package>
+  <resource>
+    <name>[ADMIN] en-GB.com_crowdfundingdata.ini</name>
+    <alias>admin-com_crowdfundingdata</alias>
+    <filename>com_crowdfundingdata.ini</filename>
+    <type>admin</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>component-crowdfunding-data-nl_nl</package_alias>
+  </resource>
+  <resource>
+    <name>[ADMIN] en-GB.com_crowdfundingdata.sys.ini</name>
+    <alias>admin-com_crowdfundingdata_sys</alias>
+    <filename>com_crowdfundingdata.sys.ini</filename>
+    <type>admin</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>component-crowdfunding-data-nl_nl</package_alias>
+  </resource>
+  <resource>
+    <name>[SITE] en-GB.com_crowdfundingdata.ini</name>
+    <alias>site-com_crowdfundingdata</alias>
+    <filename>com_crowdfundingdata.ini</filename>
+    <type>site</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>component-crowdfunding-data-nl_nl</package_alias>
+  </resource>
+  <resource>
+    <name>[ADMIN] en-GB.com_crowdfundingfiles.ini</name>
+    <alias>admin-com_crowdfundingfiles</alias>
+    <filename>com_crowdfundingfiles.ini</filename>
+    <type>admin</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>component-crowdfunding-files-nl_nl</package_alias>
+  </resource>
+  <resource>
+    <name>[ADMIN] en-GB.com_crowdfundingfiles.sys.ini</name>
+    <alias>admin-com_crowdfundingfiles_sys</alias>
+    <filename>com_crowdfundingfiles.sys.ini</filename>
+    <type>admin</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>component-crowdfunding-files-nl_nl</package_alias>
+  </resource>
+  <resource>
+    <name>[SITE] en-GB.com_crowdfundingfiles.ini</name>
+    <alias>site-com_crowdfundingfiles</alias>
+    <filename>com_crowdfundingfiles.ini</filename>
+    <type>site</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>component-crowdfunding-files-nl_nl</package_alias>
+  </resource>
   <resource>
     <name>[ADMIN] en-GB.com_crowdfundingfinance.ini</name>
     <alias>admin-com_crowdfundingfinance</alias>
@@ -303,6 +489,46 @@
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
     <package_alias>component-crowdfunding-finance-nl_nl</package_alias>
+  </resource>
+  <resource>
+    <name>[SITE] en-GB.com_crowdfundingfinance.ini</name>
+    <alias>site-com_crowdfundingfinance</alias>
+    <filename>com_crowdfundingfinance.ini</filename>
+    <type>site</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>component-crowdfunding-finance-nl_nl</package_alias>
+  </resource>
+  <resource>
+    <name>[ADMIN] en-GB.com_crowdfundingpartners.ini</name>
+    <alias>admin-com_crowdfundingpartners</alias>
+    <filename>com_crowdfundingpartners.ini</filename>
+    <type>admin</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>component-crowdfunding-partners-nl_nl</package_alias>
+  </resource>
+  <resource>
+    <name>[ADMIN] en-GB.com_crowdfundingpartners.sys.ini</name>
+    <alias>admin-com_crowdfundingpartners_sys</alias>
+    <filename>com_crowdfundingpartners.sys.ini</filename>
+    <type>admin</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>component-crowdfunding-partners-nl_nl</package_alias>
+  </resource>
+  <resource>
+    <name>[SITE] en-GB.com_crowdfundingpartners.ini</name>
+    <alias>site-com_crowdfundingpartners</alias>
+    <filename>com_crowdfundingpartners.ini</filename>
+    <type>site</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>component-crowdfunding-partners-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[ADMIN] en-GB.com_crowdfundingshares.ini</name>
@@ -565,6 +791,46 @@
     <package_alias>module-crowdfunding-search-nl_nl</package_alias>
   </resource>
   <resource>
+    <name>[MODULE] en-GB.mod_crowdfundinguserpledges.ini</name>
+    <alias>module-mod_crowdfundinguserpledges</alias>
+    <filename>mod_crowdfundinguserpledges.ini</filename>
+    <type>site</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>module-crowdfunding-userpledges-nl_nl</package_alias>
+  </resource>
+  <resource>
+    <name>[MODULE] en-GB.mod_crowdfundinguserpledges.sys.ini</name>
+    <alias>module-mod_crowdfundinguserpledges_sys</alias>
+    <filename>mod_crowdfundinguserpledges.sys.ini</filename>
+    <type>site</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>module-crowdfunding-userpledges-nl_nl</package_alias>
+  </resource>
+  <resource>
+    <name>[MODULE] en-GB.mod_crowdfundinguserprojects.ini</name>
+    <alias>module-mod_crowdfundinguserprojects</alias>
+    <filename>mod_crowdfundinguserprojects.ini</filename>
+    <type>site</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>module-crowdfunding-userprojects-nl_nl</package_alias>
+  </resource>
+  <resource>
+    <name>[MODULE] en-GB.mod_crowdfundinguserprojects.sys.ini</name>
+    <alias>module-mod_crowdfundinguserprojects_sys</alias>
+    <filename>mod_crowdfundinguserprojects.sys.ini</filename>
+    <type>site</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>module-crowdfunding-userprojects-nl_nl</package_alias>
+  </resource>
+  <resource>
     <name>[PLUGIN] en-GB.plg_content_crowdfundingadminmail.sys.ini</name>
     <alias>plugin-plg_content_crowdfundingadminmail_sys</alias>
     <filename>plg_content_crowdfundingadminmail.sys.ini</filename>
@@ -583,6 +849,26 @@
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
     <package_alias>plugin-content-crowdfunding-admin-mail-nl_nl</package_alias>
+  </resource>
+  <resource>
+    <name>[PLUGIN] en-GB.plg_content_crowdfundingfiles.ini</name>
+    <alias>plugin-plg_content_crowdfundingfiles</alias>
+    <filename>plg_content_crowdfundingfiles.ini</filename>
+    <type>admin</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>plugin-content-crowdfunding-files-nl_nl</package_alias>
+  </resource>
+  <resource>
+    <name>[PLUGIN] en-GB.plg_content_crowdfundingfiles.sys.ini</name>
+    <alias>plugin-plg_content_crowdfundingfiles_sys</alias>
+    <filename>plg_content_crowdfundingfiles.sys.ini</filename>
+    <type>admin</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>plugin-content-crowdfunding-files-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_content_crowdfundingimages.sys.ini</name>
@@ -665,6 +951,26 @@
     <package_alias>plugin-content-crowdfunding-navigation-nl_nl</package_alias>
   </resource>
   <resource>
+    <name>[PLUGIN] en-GB.plg_content_crowdfundingpartners.ini</name>
+    <alias>plugin-plg_content_crowdfundingpartners</alias>
+    <filename>plg_content_crowdfundingpartners.ini</filename>
+    <type>admin</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>plugin-content-crowdfunding-partners-nl_nl</package_alias>
+  </resource>
+  <resource>
+    <name>[PLUGIN] en-GB.plg_content_crowdfundingpartners.sys.ini</name>
+    <alias>plugin-plg_content_crowdfundingpartners_sys</alias>
+    <filename>plg_content_crowdfundingpartners.sys.ini</filename>
+    <type>admin</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>plugin-content-crowdfunding-partners-nl_nl</package_alias>
+  </resource>
+  <resource>
     <name>[PLUGIN] en-GB.plg_content_crowdfundingshare.sys.ini</name>
     <alias>plugin-plg_content_crowdfunding_share_sys</alias>
     <filename>plg_content_crowdfundingshare.sys.ini</filename>
@@ -703,6 +1009,86 @@
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
     <package_alias>plugin-content-crowdfunding-user-mail-nl_nl</package_alias>
+  </resource>
+  <resource>
+    <name>[PLUGIN] en-GB.plg_content_crowdfundingvalidator.ini</name>
+    <alias>plugin-plg_content_crowdfundingvalidator</alias>
+    <filename>plg_content_crowdfundingvalidator.ini</filename>
+    <type>admin</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>plugin-content-crowdfunding-validator-nl_nl</package_alias>
+  </resource>
+  <resource>
+    <name>[PLUGIN] en-GB.plg_content_crowdfundingvalidator.sys.ini</name>
+    <alias>plugin-plg_content_crowdfundingvalidator_sys</alias>
+    <filename>plg_content_crowdfundingvalidator.sys.ini</filename>
+    <type>admin</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>plugin-content-crowdfunding-validator-nl_nl</package_alias>
+  </resource>
+  <resource>
+    <name>[PLUGIN] en-GB.plg_crowdfunding_files.ini</name>
+    <alias>plugin-plg_crowdfunding_files</alias>
+    <filename>plg_crowdfunding_files.ini</filename>
+    <type>admin</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>plugin-crowdfunding-files-nl_nl</package_alias>
+  </resource>
+  <resource>
+    <name>[PLUGIN] en-GB.plg_crowdfunding_files.sys.ini</name>
+    <alias>plugin-plg_crowdfunding_files_sys</alias>
+    <filename>plg_crowdfunding_files.sys.ini</filename>
+    <type>admin</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>plugin-crowdfunding-files-nl_nl</package_alias>
+  </resource>
+  <resource>
+    <name>[PLUGIN] en-GB.plg_crowdfunding_partners.ini</name>
+    <alias>plugin-plg_crowdfunding_partners</alias>
+    <filename>plg_crowdfunding_partners.ini</filename>
+    <type>admin</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>plugin-crowdfunding-partners-nl_nl</package_alias>
+  </resource>
+  <resource>
+    <name>[PLUGIN] en-GB.plg_crowdfunding_partners.sys.ini</name>
+    <alias>plugin-plg_crowdfunding_partners_sys</alias>
+    <filename>plg_crowdfunding_partners.sys.ini</filename>
+    <type>admin</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>plugin-crowdfunding-partners-nl_nl</package_alias>
+  </resource>
+  <resource>
+    <name>[PLUGIN] en-GB.plg_crowdfunding_payoutoptions.ini</name>
+    <alias>plugin-plg_crowdfunding_payoutoptions</alias>
+    <filename>plg_crowdfunding_payoutoptions.ini</filename>
+    <type>admin</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>plugin-crowdfunding-payout-options-nl_nl</package_alias>
+  </resource>
+  <resource>
+    <name>[PLUGIN] en-GB.plg_crowdfunding_payoutoptions.sys.ini</name>
+    <alias>plugin-plg_crowdfunding_payoutoptions_sys</alias>
+    <filename>plg_crowdfunding_payoutoptions.sys.ini</filename>
+    <type>admin</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>plugin-crowdfunding-payout-options-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_crowdfundingpayment_authorizenet.ini</name>
@@ -765,6 +1151,46 @@
     <package_alias>plugin-crowdfundingpayment-coinbase-nl_nl</package_alias>
   </resource>
   <resource>
+    <name>[PLUGIN] en-GB.plg_crowdfundingpayment_data.ini</name>
+    <alias>plugin-plg_crowdfundingpayment_data</alias>
+    <filename>plg_crowdfundingpayment_data.ini</filename>
+    <type>admin</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>plugin-crowdfundingpayment-data-nl_nl</package_alias>
+  </resource>
+  <resource>
+    <name>[PLUGIN] en-GB.plg_crowdfundingpayment_data.sys.ini</name>
+    <alias>plugin-plg_crowdfundingpayment_data_sys</alias>
+    <filename>plg_crowdfundingpayment_data.sys.ini</filename>
+    <type>admin</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>plugin-crowdfundingpayment-data-nl_nl</package_alias>
+  </resource>
+  <resource>
+    <name>[PLUGIN] en-GB.plg_crowdfundingpayment_login.ini</name>
+    <alias>plugin-plg_crowdfundingpayment_login</alias>
+    <filename>plg_crowdfundingpayment_login.ini</filename>
+    <type>admin</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>plugin-crowdfundingpayment-login-nl_nl</package_alias>
+  </resource>
+  <resource>
+    <name>[PLUGIN] en-GB.plg_crowdfundingpayment_login.sys.ini</name>
+    <alias>plugin-plg_crowdfundingpayment_login_sys</alias>
+    <filename>plg_crowdfundingpayment_login.sys.ini</filename>
+    <type>admin</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>plugin-crowdfundingpayment-login-nl_nl</package_alias>
+  </resource>
+  <resource>
     <name>[PLUGIN] en-GB.plg_crowdfundingpayment_mollieideal.sys.ini</name>
     <alias>plugin-plg_crowdfundingpayment_mollieideal_sys</alias>
     <filename>plg_crowdfundingpayment_mollieideal.sys.ini</filename>
@@ -823,6 +1249,26 @@
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
     <package_alias>plugin-crowdfundingpayment-paypal-nl_nl</package_alias>
+  </resource>
+  <resource>
+    <name>[PLUGIN] en-GB.plg_crowdfundingpayment_paypaladaptive.ini</name>
+    <alias>plugin-plg_crowdfundingpayment_paypaladaptive</alias>
+    <filename>plg_crowdfundingpayment_paypaladaptive.ini</filename>
+    <type>admin</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>plugin-crowdfundingpayment-paypaladaptive-nl_nl</package_alias>
+  </resource>
+  <resource>
+    <name>[PLUGIN] en-GB.plg_crowdfundingpayment_paypaladaptive.sys.ini</name>
+    <alias>plugin-plg_crowdfundingpayment_paypaladaptive_sys</alias>
+    <filename>plg_crowdfundingpayment_paypaladaptive.sys.ini</filename>
+    <type>admin</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>plugin-crowdfundingpayment-paypaladaptive-nl_nl</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_crowdfundingpayment_shares.ini</name>
