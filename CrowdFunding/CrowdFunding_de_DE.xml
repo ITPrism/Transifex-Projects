@@ -410,6 +410,87 @@
     <language>de_DE</language>
     <type>plugin</type>
   </package>
+  <package>
+    <name>Plugin - Content - CrowdFunding Fraud Prevention</name>
+    <alias>plugin-content-crowdfunding-fraud-prevention-de_de</alias>
+    <filename>lang_plg_content_crowdfundingfraudprevention</filename>
+    <description>This is German translation of the plug-in Content - CrowdFunding Fraud Prevention.</description>
+    <version>1.0</version>
+    <language>de_DE</language>
+    <type>plugin</type>
+  </package>
+  <package>
+    <name>Plugin - CrowdFundingPayment - Fraud Prevention</name>
+    <alias>plugin-crowdfundingpayment-fraud-prevention-de_de</alias>
+    <filename>plugin-crowdfundingpayment-fraud-prevention-de_de</filename>
+    <description>This is German translation of the plug-in CrowdFundingPayment - Fraud Prevention.</description>
+    <version>1.0</version>
+    <language>de_DE</language>
+    <type>plugin</type>
+  </package>
+  <package>
+    <name>Module - CrowdFunding Categories</name>
+    <alias>module-crowdfunding-categories-de_de</alias>
+    <filename>lang_mod_crowdfundingcategories</filename>
+    <description>This is a German translation of the module CrowdFunding Categories.</description>
+    <version>1.0</version>
+    <language>de_DE</language>
+    <type>module</type>
+  </package>
+  <package>
+    <name>Module - CrowdFunding Filters Sorting</name>
+    <alias>module-crowdfunding-fitlers-sorting-de_de</alias>
+    <filename>lang_mod_crowdfundingfilterssorting</filename>
+    <description>This is a German translation of the module CrowdFunding Filters Sorting.</description>
+    <version>1.0</version>
+    <language>de_DE</language>
+    <type>module</type>
+  </package>
+  <package>
+    <name>Module - CrowdFunding Filters Towns</name>
+    <alias>module-crowdfunding-filters-towns-de_de</alias>
+    <filename>lang_mod_crowdfundingfilterstowns</filename>
+    <description>This is a German translation of the module CrowdFunding Filters Towns.</description>
+    <version>1.0</version>
+    <language>de_DE</language>
+    <type>module</type>
+  </package>
+  <package>
+    <name>Module - CrowdFunding Predefined Filters</name>
+    <alias>module-crowdfunding-predefined-filters-de_de</alias>
+    <filename>lang_mod_crowdfundingpredefinedfilters</filename>
+    <description>This is a German translation of the module CrowdFunding Predefined Filters.</description>
+    <version>1.0</version>
+    <language>de_DE</language>
+    <type>module</type>
+  </package>
+  <package>
+    <name>Module - CrowdFunding Reporting</name>
+    <alias>module-crowdfunding-reporting-de_de</alias>
+    <filename>lang_mod_crowdfundingreporting</filename>
+    <description>This is a German translation of the module CrowdFunding Reporting.</description>
+    <version>1.0</version>
+    <language>de_DE</language>
+    <type>module</type>
+  </package>
+  <package>
+    <name>Plugin - CrowdFundingPayment - Blockchain</name>
+    <alias>plugin-crowdfundingpayment-blockchain-de_de</alias>
+    <filename>lang_plg_crowdfundingpayment_blockchain</filename>
+    <description>This is a German translation of the payment plug-in Blockchain.</description>
+    <version>1.0</version>
+    <language>de_DE</language>
+    <type>plugin</type>
+  </package>
+  <package>
+    <name>Plugin - CrowdFundingPayment - Stripe</name>
+    <alias>plugin-crowdfundingpayment-stripe-de_de</alias>
+    <filename>lang_plg_crowdfundingpayment_stripe</filename>
+    <description>This is a German translation of the payment plug-in Stripe.</description>
+    <version>1.0</version>
+    <language>de_DE</language>
+    <type>plugin</type>
+  </package>
   <resource>
     <name>[ADMIN] en-GB.com_crowdfundingdata.ini</name>
     <alias>admin-com_crowdfundingdata</alias>
@@ -611,6 +692,26 @@
     <package_alias>itprism-library-de_de</package_alias>
   </resource>
   <resource>
+    <name>[MODULE] en-GB.mod_crowdfundingcategories.ini</name>
+    <alias>module-mod_crowdfundingcategories</alias>
+    <filename>mod_crowdfundingcategories.ini</filename>
+    <type>site</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>module-crowdfunding-categories-de_de</package_alias>
+  </resource>
+  <resource>
+    <name>[MODULE] en-GB.mod_crowdfundingcategories.sys.ini</name>
+    <alias>module-mod_crowdfundingcategories_sys</alias>
+    <filename>mod_crowdfundingcategories.sys.ini</filename>
+    <type>site</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>module-crowdfunding-categories-de_de</package_alias>
+  </resource>
+  <resource>
     <name>[MODULE] en-GB.mod_crowdfundingdetails.sys.ini</name>
     <alias>module-mod_crowdfundingdetails_sys</alias>
     <filename>mod_crowdfundingdetails.sys.ini</filename>
@@ -649,6 +750,46 @@
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
     <package_alias>module-crowdfunding-filters-de_de</package_alias>
+  </resource>
+  <resource>
+    <name>[MODULE] en-GB.mod_crowdfundingfilterstowns.ini</name>
+    <alias>module-mod_crowdfundingfilterstowns</alias>
+    <filename>mod_crowdfundingfilterstowns.ini</filename>
+    <type>site</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>module-crowdfunding-filters-towns-de_de</package_alias>
+  </resource>
+  <resource>
+    <name>[MODULE] en-GB.mod_crowdfundingfilterstowns.sys.ini</name>
+    <alias>module-mod_crowdfundingfilterstowns_sys</alias>
+    <filename>mod_crowdfundingfilterstowns.sys.ini</filename>
+    <type>site</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>module-crowdfunding-filters-towns-de_de</package_alias>
+  </resource>
+  <resource>
+    <name>[MODULE] en-GB.mod_crowdfundingfilterssorting.ini</name>
+    <alias>module-mod_crowdfundingfilterssorting</alias>
+    <filename>mod_crowdfundingfilterssorting.ini</filename>
+    <type>site</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>module-crowdfunding-fitlers-sorting-de_de</package_alias>
+  </resource>
+  <resource>
+    <name>[MODULE] en-GB.mod_crowdfundingfilterssorting.sys.ini</name>
+    <alias>module-mod_crowdfundingfilterssorting_sys</alias>
+    <filename>mod_crowdfundingfilterssorting.sys.ini</filename>
+    <type>site</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>module-crowdfunding-fitlers-sorting-de_de</package_alias>
   </resource>
   <resource>
     <name>[MODULE] en-GB.mod_crowdfundinginfo.sys.ini</name>
@@ -731,6 +872,26 @@
     <package_alias>module-crowdfunding-popular-de_de</package_alias>
   </resource>
   <resource>
+    <name>[MODULE] en-GB.mod_crowdfundingpredefinedfilters.ini</name>
+    <alias>module-mod_crowdfundingpredefinedfilters</alias>
+    <filename>mod_crowdfundingpredefinedfilters.ini</filename>
+    <type>site</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>module-crowdfunding-predefined-filters-de_de</package_alias>
+  </resource>
+  <resource>
+    <name>[MODULE] en-GB.mod_crowdfundingpredefinedfilters.sys.ini</name>
+    <alias>module-mod_crowdfundingpredefinedfilters_sys</alias>
+    <filename>mod_crowdfundingpredefinedfilters.sys.ini</filename>
+    <type>site</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>module-crowdfunding-predefined-filters-de_de</package_alias>
+  </resource>
+  <resource>
     <name>[MODULE] en-GB.mod_crowdfundingprofile.ini</name>
     <alias>module-mod_crowdfundingprofile</alias>
     <filename>mod_crowdfundingprofile.ini</filename>
@@ -749,6 +910,26 @@
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
     <package_alias>module-crowdfunding-profile-de_de</package_alias>
+  </resource>
+  <resource>
+    <name>[MODULE] en-GB.mod_crowdfundingreporting.ini</name>
+    <alias>module-mod_crowdfundingreporting</alias>
+    <filename>mod_crowdfundingreporting.ini</filename>
+    <type>site</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>module-crowdfunding-reporting-de_de</package_alias>
+  </resource>
+  <resource>
+    <name>[MODULE] en-GB.mod_crowdfundingreporting.sys.ini</name>
+    <alias>module-mod_crowdfundingreporting_sys</alias>
+    <filename>mod_crowdfundingreporting.sys.ini</filename>
+    <type>site</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>module-crowdfunding-reporting-de_de</package_alias>
   </resource>
   <resource>
     <name>[MODULE] en-GB.mod_crowdfundingrewards.sys.ini</name>
@@ -869,6 +1050,26 @@
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
     <package_alias>plugin-content-crowdfunding-files-de_de</package_alias>
+  </resource>
+  <resource>
+    <name>[PLUGIN] en-GB.plg_content_crowdfundingfraudprevention.ini</name>
+    <alias>plugin-plg_content_crowdfundingfraudprevention</alias>
+    <filename>plg_content_crowdfundingfraudprevention.ini</filename>
+    <type>admin</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>plugin-content-crowdfunding-fraud-prevention-de_de</package_alias>
+  </resource>
+  <resource>
+    <name>[PLUGIN] en-GB.plg_content_crowdfundingfraudprevention.sys.ini</name>
+    <alias>plugin-plg_content_crowdfundingfraudprevention_sys</alias>
+    <filename>plg_content_crowdfundingfraudprevention.sys.ini</filename>
+    <type>admin</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>plugin-content-crowdfunding-fraud-prevention-de_de</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_content_crowdfundingimages.sys.ini</name>
@@ -1131,6 +1332,26 @@
     <package_alias>plugin-crowdfundingpayment-banktransfer-de_de</package_alias>
   </resource>
   <resource>
+    <name>[PLUGIN] en-GB.plg_crowdfundingpayment_blockchain.ini</name>
+    <alias>plugin-plg_crowdfundingpayment_blockchain</alias>
+    <filename>plg_crowdfundingpayment_blockchain.ini</filename>
+    <type>admin</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>plugin-crowdfundingpayment-blockchain-de_de</package_alias>
+  </resource>
+  <resource>
+    <name>[PLUGIN] en-GB.plg_crowdfundingpayment_blockchain.sys.ini</name>
+    <alias>plugin-plg_crowdfundingpayment_blockchain_sys</alias>
+    <filename>plg_crowdfundingpayment_blockchain.sys.ini</filename>
+    <type>admin</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>plugin-crowdfundingpayment-blockchain-de_de</package_alias>
+  </resource>
+  <resource>
     <name>[PLUGIN] en-GB.plg_crowdfundingpayment_coinbase.sys.ini</name>
     <alias>plugin-plg_crowdfundingpayment_coinbase_sys</alias>
     <filename>plg_crowdfundingpayment_coinbase.sys.ini</filename>
@@ -1169,6 +1390,26 @@
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
     <package_alias>plugin-crowdfundingpayment-data-de_de</package_alias>
+  </resource>
+  <resource>
+    <name>[PLUGIN] en-GB.plg_crowdfundingpayment_fraudprevention.ini</name>
+    <alias>plugin-plg_crowdfundingpayment_fraudprevention</alias>
+    <filename>plg_crowdfundingpayment_fraudprevention.ini</filename>
+    <type>admin</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>plugin-crowdfundingpayment-fraud-prevention-de_de</package_alias>
+  </resource>
+  <resource>
+    <name>[PLUGIN] en-GB.plg_crowdfundingpayment_fraudprevention.sys.ini</name>
+    <alias>plugin-plg_crowdfundingpayment_fraudprevention_sys</alias>
+    <filename>plg_crowdfundingpayment_fraudprevention.sys.ini</filename>
+    <type>admin</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>plugin-crowdfundingpayment-fraud-prevention-de_de</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_crowdfundingpayment_login.ini</name>
@@ -1289,6 +1530,26 @@
     <source_language_code>en_GB</source_language_code>
     <published>1</published>
     <package_alias>plugin-crowdfundingpayment-shares-de_de</package_alias>
+  </resource>
+  <resource>
+    <name>[PLUGIN] en-GB.plg_crowdfundingpayment_stripe.ini</name>
+    <alias>plugin-plg_crowdfundingpayment_stripe</alias>
+    <filename>plg_crowdfundingpayment_stripe.ini</filename>
+    <type>admin</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>plugin-crowdfundingpayment-stripe-de_de</package_alias>
+  </resource>
+  <resource>
+    <name>[PLUGIN] en-GB.plg_crowdfundingpayment_stripe.sys.ini</name>
+    <alias>plugin-plg_crowdfundingpayment_stripe_sys</alias>
+    <filename>plg_crowdfundingpayment_stripe.sys.ini</filename>
+    <type>admin</type>
+    <i18n_type>INI</i18n_type>
+    <source_language_code>en_GB</source_language_code>
+    <published>1</published>
+    <package_alias>plugin-crowdfundingpayment-stripe-de_de</package_alias>
   </resource>
   <resource>
     <name>[PLUGIN] en-GB.plg_crowdfundingpayment_wepay.ini</name>
